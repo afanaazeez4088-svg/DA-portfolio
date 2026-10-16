@@ -9,6 +9,8 @@ This project analyzes sales data to identify sales trends, top-selling products 
 * Pandas
 * Matplotlib
 * Google Colab
+* Excel
+* Power BI
 
 ## Key Questions
 * Which product has the highest sales?
